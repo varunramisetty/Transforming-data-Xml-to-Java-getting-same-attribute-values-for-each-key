@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='windows-1252'?>
+<tsResponse xmlns="http://some.com/api" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://some.com/api http://some.com/api/ts-api-8.8.xsd">
+ <pagination pageNumber="1" pageSize="1000" totalAvailable="76"></pagination>
+ <groups>
+  <group id="3ec2" name="All Users">
+   <domain name="1"></domain>
+  </group>
+  <group id="7720a" name="AD_Finance">
+   <domain name="2"></domain>
+  </group>
+  <group id="c1750340" name="testing">
+   <domain name="3"></domain>
+  </group>
+ </groups>
+</tsResponse>
